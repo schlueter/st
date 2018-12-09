@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monofur for Powerline:style=Regular";
+static char *font = "monofur for Powerline-12:style=Regular";
 static int borderpx = 1;
 
 /*
